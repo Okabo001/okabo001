@@ -12,6 +12,9 @@ hey there🤳🤳<br>I'm Alex from Kenya and I do content on design and developm
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Okabo001&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Okabo001&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="[smiley.gif](https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559
+)" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
