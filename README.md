@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alex Okabo</h1>
-<h3 align="center">A passionate frontend developer and android developer froma kenya</h3>
+<h3 align="center">A passionate Cybersecurity and Network Engineer and android developer froma kenya</h3>
 
 <img src="https://media.tenor.com/M072J6WpMXYAAAAC/test-light.gif" alt="TEST CODE" width="185" height="300" style="horizontally-align:bottom-left">\n
 <img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" alt="lets code" width="185" height="300" style="horizontally-align:bottom-right">\n
@@ -17,11 +17,11 @@
 
 - 🔭 I’m currently working on **Revamp an app you love**
 
-- 🌱 I’m currently learning **On Barchelor Of Science in Information Technology in Zetech University and also undergoing a study in ALX SE**
+- 🌱 I’m Done  **with my Barchelor Of Science in Information Technology in Zetech University and waiting for graduation and also undergoing a study in Cybershujaa for a cloud network security**
 
-- 👯 I’m looking to collaborate on **gaming app**
+- 👯 I’m looking to collaborate on **Secure Application Development**
 
-- 🤝 I’m looking for help with **a system that can monitor and report cops when they get outn of their duty and harm citizens**
+- 🤝 I’m looking for help with **Security Information and Event Management (SIEM) System**
 
 - 👨‍💻 All of my projects are available at [Github(actual not all of them)](Github(actual not all of them))
 
